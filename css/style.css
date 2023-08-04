@@ -836,6 +836,11 @@ margin-bottom:16px;
   outline: transparent;
   resize:none;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1); 
+  
+
+}
+
+.text-area-input:focus{
   border-color: var(--iris);
 
 }
