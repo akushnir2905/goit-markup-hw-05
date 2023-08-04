@@ -687,6 +687,12 @@ margin-bottom:16px;
 .sub-form{
   display: flex;
   gap: 24px;
+
+
+}
+
+.telegram-icon{
+  margin-left: 16px;
 }
 /*modal window*/
 .modal-window{
