@@ -666,10 +666,11 @@ font-family: Roboto;
 font-size: 12px;
 font-style: normal;
 font-weight: 400;
-line-height: 24px; /* 200% */
+line-height: 1.5; /* 200% */
 letter-spacing: 0.48px;
 margin-right: 24px;
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+padding-left: 16px;
 
 }
 
