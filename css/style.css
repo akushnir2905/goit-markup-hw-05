@@ -887,3 +887,9 @@ margin-bottom:16px;
 .policy-link{
   color: #4d5ae5; 
 }
+
+.accept-span:checked{
+  background-color: #404BBF;
+  border:none;
+  fill:var(--cloud);
+}
