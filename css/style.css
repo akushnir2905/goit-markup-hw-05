@@ -888,7 +888,7 @@ margin-bottom:16px;
   color: #4d5ae5; 
 }
 
-.checkbox:checked + .span-svg{
+.checkbox:checked + .accept-span{
   background-color: #404BBF;
   border:none;
   fill:var(--cloud);
