@@ -723,6 +723,11 @@ margin-bottom:16px;
   margin-bottom: 8px;
 }
 
+.modal-form-label{
+  font-size: 12px;
+  line-height: 1.17;
+}
+
 .modal-btn{
   position: absolute;
   top: 24px;
