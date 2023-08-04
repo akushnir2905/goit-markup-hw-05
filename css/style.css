@@ -889,14 +889,12 @@ margin-bottom:16px;
   color: #4d5ae5; 
 }
 
-.checkbox-container input:checked .accept-span{
+.checkbox:checked + .terms-label .accept-span {
   background-color: #404BBF;
   border:none;
-  fill:var(--cloud);
+  
 }
 
-input[type="checkbox"]:checked .accept-span{
-  background-color: #404BBF;
-  border:none;
-  fill:var(--cloud);
+.checkbox:checked + .terms-label .accept-span svg{
+  fill: var(--cloud);
 }
